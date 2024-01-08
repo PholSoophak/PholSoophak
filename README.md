@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PholSoophak
 - 👀 I’m interested in wed-Design
-- 🌱 I’m currently learning HTML CSS JVS 
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
