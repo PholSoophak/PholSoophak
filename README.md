@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PholSoophak
+- 👋 Hi, I’m Sophak
 - 👀 I’m interested in wed-Design
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
